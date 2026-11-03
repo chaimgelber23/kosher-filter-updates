@@ -1,0 +1,51 @@
+{
+ "version": 202611031240,
+ "created": "2026-11-03T12:40:50.657873+00:00",
+ "files": [
+  {
+   "name": "ads.txt",
+   "sha256": "04de160c6b2818bbf6f3410f50e81157b73cc3b9c4b92d45e9522de70c09e03b",
+   "bytes": 7924486
+  },
+  {
+   "name": "adult.txt",
+   "sha256": "02a8aa90c8212a760b5d15f3c708bea4188a602da40d60ea2fd5f30426248416",
+   "bytes": 18461286
+  },
+  {
+   "name": "dating.txt",
+   "sha256": "59e803d9647739493cef9e33942b04a477b8688bd2f424b89a34f87a7a3b0560",
+   "bytes": 476
+  },
+  {
+   "name": "drugs.txt",
+   "sha256": "b57e1f1db474859f43159c28ff2bfc5aca2321c6877448984db8597815088b44",
+   "bytes": 483242
+  },
+  {
+   "name": "gambling.txt",
+   "sha256": "f48ba2b1d4692cf923baa8aa19f67ac9296a3208acd1436da1c134602346f020",
+   "bytes": 5626806
+  },
+  {
+   "name": "piracy.txt",
+   "sha256": "0914c50587682972270160212b1a4eeb0a94520627b9fe53509a1b03ea33d561",
+   "bytes": 82804
+  },
+  {
+   "name": "social.txt",
+   "sha256": "c72daf94f88fdc31640ae4f9b179f3f541bd154086e7e453de21988ee8a2cd32",
+   "bytes": 880938
+  },
+  {
+   "name": "whatsapp.txt",
+   "sha256": "8cb5f4c11deb63e0b9946012e00c14aa5b5eae3a8d9c4ad1e5efb4cd7851d48b",
+   "bytes": 6395
+  },
+  {
+   "name": "youtube.txt",
+   "sha256": "01f3e2f1d1c3ea84f33c69d15c10fb7887d94b7254cd6fd16012b772721014ae",
+   "bytes": 220
+  }
+ ]
+}
